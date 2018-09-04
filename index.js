@@ -20,7 +20,7 @@ function scuberGreetingForFeet(amo){
    }
    function switchOnCharmFromTip(tip){
       switch(tip){
-        case('gorg')
+        case('generous'){return }
       }
    }
    
