@@ -18,7 +18,9 @@ function scuberGreetingForFeet(amo){
       return "No go."
     }
    }
-   function switchOnCharmFromTip(){
-     
+   function switchOnCharmFromTip(tip){
+      switch(tip){
+        case('gorg')
+      }
    }
    
